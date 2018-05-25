@@ -2,9 +2,6 @@
 layout: single
 title: "Mount Agung"
 ---
-{{ page.title }}
-================
-
 **The threat of a major volcanic eruption at Mount Agung is already having a negative effect on Bali's most important industry - tourism.**
 
 The fear of an eruption has forced the evacuation of 40,000 people from the volcano's foothills.
