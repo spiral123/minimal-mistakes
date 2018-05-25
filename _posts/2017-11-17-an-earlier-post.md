@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: This is my first Jekyll Markdown page
 ---
 {{ page.title }}
